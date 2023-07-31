@@ -28,7 +28,7 @@ function that causes premature meristem termination. emb1611-2 plants display di
 of the shoot meristem cell layers early in development, and an associated stem cell
 fate change to an organogenic identity. Genetic and molecular analysis indicates
 that EMB1611 is required for maintenance of the CLV-WUS stem cell regulatory pathway
-in the shoot meristem, \ but also has WUS-independent activity. In addition,
+in the shoot meristem, but also has WUS-independent activity. In addition,
 emb1611-2 plants have reduced shoot and root growth, and their rosette leaves form trichomes with extra branches,
  a defect we associate with an increase in endoreduplication. Our data indicate
 that EMB1611 functions to maintain cells, particularly those in the shoot meristem,
