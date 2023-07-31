@@ -1,5 +1,6 @@
 # pubmed_indexer_abstract_fetcher
-This function will prepare the abstract and the id information for all the pubmed articles that you want to read and have as a citation. I coded this using a web scraping approach and it is blazing fast.
+This function will prepare the abstract and the id information for all the pubmed articles that you want to read and have as a citation. I coded this using a web scraping approach and it is blazing fast. You can give any ncbi pubmed id single or pass it through the file and it will download and prepare the citations, abstract and also the corpus for the language data.
+
 Gaurav Sablok \
 Senior Postdoctoral Fellow \
 Faculty of Natural and Agricultural Sciences Room 7-35, \
