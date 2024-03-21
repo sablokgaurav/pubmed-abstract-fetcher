@@ -1,13 +1,6 @@
 # pubmed_indexer_abstract_fetcher
 This function will prepare the abstract and the id information for all the [pubmed](https://pubmed.ncbi.nlm.nih.gov) articles that you want to read and have as a citation. I coded this using a web scraping approach and it is blazing fast and parses better than ncbi eutils. You can give any ncbi pubmed id single or pass it through the file and it will download and prepare the citations, abstract and also the corpus for the language data.
 
-Gaurav Sablok \
-Frontiers: https://loop.frontiersin.org/people/33293/overview \
-ORCID: https://orcid.org/0000-0002-4157-9405 \
-WOS: https://www.webofscience.com/wos/author/record/C-5940-2014 \
-Github:https://github.com/sablokgaurav \
-Linkedin: https://www.linkedin.com/in/sablokgaurav/
-
 ```python
 ncbiAbstractMiner()
 [('18980659',
@@ -32,4 +25,11 @@ roots and developing rosette leaves, in a proliferative or uncommitted state.')]
 ```python
 ncbiAbstractMiner(file)
 You can pass a file with endless pubmed ids.
+```
 
+Gaurav Sablok \
+Academic Staff Member \
+Bioinformatics \
+Institute for Biochemistry and Biology \
+University of Potsdam \
+Potsdam,Germany
