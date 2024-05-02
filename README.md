@@ -27,7 +27,7 @@ ncbiAbstractMiner(file)
 You can pass a file with endless pubmed ids.
 ```
 
-Gaurav Sablok \
+Gaurav \
 Academic Staff Member \
 Bioinformatics \
 Institute for Biochemistry and Biology \
